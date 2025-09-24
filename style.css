@@ -1,0 +1,17 @@
+body {
+  background: linear-gradient(to right, #83a4d4, #b6fbff);
+  font-family: Arial, sans-serif;
+}
+
+.card {
+  border-radius: 15px;
+}
+
+#forecast .card {
+  margin: 10px;
+  background-color: #ffffffdd;
+}
+
+h2 {
+  font-weight: bold;
+}
