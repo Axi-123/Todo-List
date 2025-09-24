@@ -30,7 +30,7 @@ Installation / Running Locally
 For Static Web App
 
 Clone the repository:
-git clone https://github.com/YourUsername/YourRepoName.git
+git clone https://github.com/Axi-123/Todo-List.git
 
 Navigate into the project folder:
 cd YourRepoName
